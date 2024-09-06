@@ -1,8 +1,9 @@
 # Plano de Trabalho
 
 ***Plano de trabalho***
+
 - Criar grupo whatapp para facilitar a comunicação
-- Criar pasta no google drive para centralizar os documentos 
+- Criar pasta no google drive para centralizar os documentos
 
 - Definir pontos de validação
 - Definir data para reunião presencial
