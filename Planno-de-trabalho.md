@@ -39,3 +39,7 @@
 1. Manter os documentos originais na pasta ***Docs-atuais-para-encontro***
 2. Documentos revisados em ***Docs-revisados-para-encontro***
 3. Conforme tivermos atualizações reportar no WhatsApp
+
+## Pasta de trabalho - Google Drive
+
+![Pasta compartilhada no Google Drive!](./imagens/pasta-de-trabalho.png)
