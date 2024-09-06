@@ -33,6 +33,6 @@
 
 ## Plano de Trabalho
 
-[Veja o plano de trabalho aqui!](./Planno-de-trabalho.md)
+[Veja o plano de trabalho aqui!](./Plano-de-trabalho.md)
 
 Setembro/2024
