@@ -7,12 +7,14 @@ data: 20/09/2024
 
 ## Ajustes efetuados
 
-1. Efetuada otimização recomendada pelo Excel conforme 
-![Print screen anexado](./imagens/Otimizacao-plan.png)
+1. Efetuada otimização recomendada pelo Excel conforme abaixo:
+    - Situação antes ![Antes](./imagens/Anexo66-Recomendacoes.png)
+    - Situação pós otimizações ![Pós](./imagens/Otimizacao-plan.png)
+    - Comparativo das planilhas antes e depois de otimizadas ![Comparativo](./imagens/Anexo66-Comparativo.png)
 
 2. Aba "Tabelas" - correção de Linhais para Pinhais em "São José do Pinhais"
 
-3. Aba "Composição Equipe 2" 
+3. Aba "Composição Equipe 2"
     - de "Col. Farias" para "Col. Faria"
     - de "Santa Teresinha de Lisieux / Guaraituba" para "Santa Teresinha de Lisieux"
 
@@ -20,10 +22,10 @@ data: 20/09/2024
     - célula B9 de "='Planta Quartos - Mossugue'!A15" para "=CONCATENAR("ENCONTRO Nº ";'Dados Gerais'!A2)"
     - célula B11 de "='Planta Quartos - Mossugue'!B17" para "=CONCATENAR("REALIZADO NOS DIAS ";'Dados Gerais'!C2)"
 
-5. Aba "Relação de Padrinhos" 
+5. Aba "Relação de Padrinhos"
     - célula A10 - de "=@'An 101 - RELATÓRIO FINANCEIRO'!A9:D9" para "=CONCATENAR("REALIZADO NOS DIAS ";'Dados Gerais'!C2)"
 
-6. Aba "An 46 - Relação de Chamada" 
+6. Aba "An 46 - Relação de Chamada"
     - célula B9 - de "='Relação de Padrinhos'!A10" para "=CONCATENAR("REALIZADO NOS DIAS ";'Dados Gerais'!C2)"
     - célular B7 - de "='Refrigerantes - NEOS'!C6" para "=CONCATENAR("ENCONTRO Nº ";'Dados Gerais'!A2)"
 
@@ -66,6 +68,3 @@ data: 20/09/2024
 16. Aba "An 91 - Quadro Vigilantes"
     - célula B6 - de "=@'Refri - Equipe C e Secretaria'!B6:G6" para "=CONCATENAR("ENCONTRO Nº ";'Dados Gerais'!A2)"
     - célula B8 - de "=@'Planta Quartos - Mossugue'!B17:U17" para "=CONCATENAR("REALIZADO NOS DIAS ";'Dados Gerais'!C2)"
-
-
-

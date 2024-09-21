@@ -24,7 +24,7 @@
     - Preparar para avaliação ESAMI
 6. ***Planilha central do Encontro***
     - Fazer cópia para a pasta Docs-revisados-para-encontro - ***feito***
-    - Atualizar a planilha de acordo com a situação atual (Claudinei) 
+    - Atualizar a planilha de acordo com a situação atual (Claudinei)
     - Pequenos ajustes de referências (Romildo) - ***feito*** [Pequenos ajustes](Ajustes-Anexo-66.md)
     - Preparar para avaliação ESAMI
 7. ***Pasta física***
