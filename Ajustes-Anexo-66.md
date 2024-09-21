@@ -73,4 +73,8 @@ data: 20/09/2024
 
 ## Próxima etapa
 
-Avaliar a possibilidade de remoção ou exclusão das abas que não são da casa de retiros São Francisco de Assis.
+1. Avaliar a possibilidade de remoção ou exclusão das abas que não são da casa de retiros São Francisco de Assis.
+
+2. [Veja próximas atividades!](./Proposta-proximas-atividades.md)
+
+3.
