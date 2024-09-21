@@ -1,4 +1,6 @@
-# Ajustes na planilha Encontro 371 - ANEXO 66 - RESUMO DAS FICHAS DE INSCRICAO.xlsm
+# Ajustes na planilha
+
+## Ajustes na planilha Encontro 371 - ANEXO 66 RESUMO DAS FICHAS DE INSCRICAO.xlsm
 
 ```code
 Por: Romildo
@@ -68,3 +70,7 @@ data: 20/09/2024
 16. Aba "An 91 - Quadro Vigilantes"
     - célula B6 - de "=@'Refri - Equipe C e Secretaria'!B6:G6" para "=CONCATENAR("ENCONTRO Nº ";'Dados Gerais'!A2)"
     - célula B8 - de "=@'Planta Quartos - Mossugue'!B17:U17" para "=CONCATENAR("REALIZADO NOS DIAS ";'Dados Gerais'!C2)"
+
+## Próxima etapa
+
+Avaliar a possibilidade de remoção ou exclusão das abas que não são da casa de retiros São Francisco de Assis.
